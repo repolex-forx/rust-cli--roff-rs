@@ -74,7 +74,9 @@
           "githubUrl": "https://github.com/dtolnay/automod",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/309d82d9a159972c39b5163c4b56dba49870729e/chunk-001.nq.gz",
+      "dep": "dep/309d82d9a159972c39b5163c4b56dba49870729e.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
