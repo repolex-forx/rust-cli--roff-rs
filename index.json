@@ -1,0 +1,11 @@
+{
+  "org": "rust-cli",
+  "repo": "roff-rs",
+  "versions": [
+    {
+      "commit": "309d82d9a159972c39b5163c4b56dba49870729e",
+      "tag": "v1.1.1",
+      "parsed_at": "2026-11-21T23:30:25.461384+00:00"
+    }
+  ]
+}
