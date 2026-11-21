@@ -40,6 +40,40 @@
       ],
       "ast": [
         "aggregate/ast/309d82d9a159972c39b5163c4b56dba49870729e/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/309d82d9a159972c39b5163c4b56dba49870729e.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pretty_assertions",
+          "ecosystem": "CARGO",
+          "version": "1.4.1",
+          "githubOrg": "rust-pretty-assertions",
+          "githubRepo": "rust-pretty-assertions",
+          "githubCommit": "f5c5b24258739cf3918d4165a17b43c1cddadfc2",
+          "githubTag": "v1.4.1",
+          "githubUrl": "https://github.com/rust-pretty-assertions/rust-pretty-assertions",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "duct",
+          "ecosystem": "CARGO",
+          "version": "1.1",
+          "githubOrg": "oconnor663",
+          "githubRepo": "duct.rs",
+          "githubUrl": "https://github.com/oconnor663/duct.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "automod",
+          "ecosystem": "CARGO",
+          "version": "1.0.16",
+          "githubOrg": "dtolnay",
+          "githubRepo": "automod",
+          "githubCommit": "74d02e471789b227b6c73e91a8a7d1c4e1911ab0",
+          "githubTag": "1.0.16",
+          "githubUrl": "https://github.com/dtolnay/automod",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
